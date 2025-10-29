@@ -23,7 +23,7 @@ The focus of the project is to gain insights into **Investment Preferences and B
 
 ## 🖼️ Dashboard Preview  
 ![Investment Insights Dashboard](### 📊 Power BI Dashboard Preview
-![Investment Insights Dashboard](https://raw.githubusercontent.com/ganu47/Cognifyz-Data-Analytics-Internship/main/dashboard.png)
+![Investment Insights Dashboard]((https://github.com/ganu47/Cognifyz-Data-Analytics-Internship/blob/main/PowerBi/dashboard.PNG?raw=true))
 ))
 
 **Description:**  
