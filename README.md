@@ -22,7 +22,9 @@ The focus of the project is to gain insights into **Investment Preferences and B
 ---
 
 ## 🖼️ Dashboard Preview  
-![Investment Insights Dashboard]([https://github.com/<your-username>/<repo-name>/blob/main/dashboard.png](https://github.com/ganu47/Cognifyz-Data-Analytics-Internship/blob/0614a9ec3dda7b85a1622b7098e8b53da907110c/PowerBi/dashboard.PNG))
+![Investment Insights Dashboard](### 📊 Power BI Dashboard Preview
+![Investment Insights Dashboard](https://raw.githubusercontent.com/ganu47/Cognifyz-Data-Analytics-Internship/main/dashboard.png)
+))
 
 **Description:**  
 The **Investment Insights Dashboard** visualizes key metrics including respondent demographics, investment duration, savings objectives, and sources of information.  
